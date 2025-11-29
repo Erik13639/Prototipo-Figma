@@ -27,5 +27,6 @@ Erik Araújo
 João Augusto
 
 ## link do pages:
+https://erik13639.github.io/Prototipo-Figma/
 
 Este projeto é de uso acadêmico e não possui fins comerciais.
