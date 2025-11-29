@@ -21,53 +21,11 @@ Layout seguindo o design original criado no Figma
 HTML5
 CSS3
 
-Figma (para prototipagem)
-
-Estrutura de pastas organizada para fácil manutenção
-
-📁 Estrutura do Projeto
-/
-├── css/
-│   └── style.css
-├── html/
-│   ├── detalhes.html
-│   ├── sobre.html
-│   ├── contato.html
-│   └── outros arquivos .html
-├── img/
-│   ├── logo.png
-│   ├── produtos/
-│   └── demais imagens
-└── index.html
-
-📌 Funcionalidades Implementadas
-
-Navegação completa entre páginas
-
-Design responsivo baseado no Figma
-
-Seções de produtos com imagens, descrições e preços
-
-Botões estilizados
-
-Formulário de contato visual
-
-Rodapé fixo com direitos autorais
-
-🎯 Objetivo da Implementação
-
-Reproduzir o layout criado no Figma
-Aplicar HTML e CSS de forma organizada
-
-##Navegue pelo site usando o menu superior.
-
-📸 Prototipagem no Figma
-
-
-
-👨‍💻 Autores
+## Autores
 
 Erik Araújo
 João Augusto
+
+## link do pages:
 
 Este projeto é de uso acadêmico e não possui fins comerciais.
