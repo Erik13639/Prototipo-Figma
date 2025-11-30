@@ -28,7 +28,7 @@ Este repositório inclui:
 
 ---
 
-## **Análise da Implementação (Figma vs. HTML/CSS)**
+## 🔎 **Análise da Implementação (Figma vs. HTML/CSS)**
 
 A implementação do projeto LifePet em HTML e CSS buscou **manter a identidade visual** definida no Figma (cores, tipografia, e layout de blocos) ao longo de todas as páginas.
 
@@ -43,14 +43,33 @@ A implementação do projeto LifePet em HTML e CSS buscou **manter a identidade 
 
 ---
 
-## **Comparativo: Design Figma (Antes) vs. Implementação HTML/CSS (Depois)**
+## 📸 **Comparativo: Design Figma (Antes) vs. Implementação HTML/CSS (Depois)**
 
-| Página | Design Figma (O Antes) | Implementação HTML/CSS (O Depois) |
+Abaixo, demonstramos a fidelidade da implementação em HTML e CSS em relação ao protótipo original criado no Figma, comparando as principais páginas do projeto.
+
+### 1. Página Inicial (Home)
+
+| Design Figma (O Antes) | Implementação HTML/CSS (O Depois) |
 | :---: | :----: |
-| **Inicial** | ![Design Figma - Página Inicial](https://github.com/user-attachments/assets/c00a96b8-13aa-4cb6-8128-4c23506c67eb) | ![Implementação HTML/CSS - Página Inicial](https://github.com/user-attachments/assets/f5386d90-0ad3-4fc4-8174-d8e6137f6534) |
-| **Sobre** | ![Design Figma - Página Sobre](https://github.com/user-attachments/assets/ccf75de2-b014-4f8f-8a91-c094919887ea) | ![Implementação HTML/CSS - Página Sobre](https://github.com/user-attachments/assets/ca3eda33-9f36-47e4-8143-9318dc03a346) |
-| **Detalhes** | ![Design Figma - Detalhes do Produto](https://github.com/user-attachments/assets/1921b82a-5ede-4bd3-b823-709a95f9a461) | ![Implementação HTML/CSS - Detalhes do Produto](https://github.com/user-attachments/assets/16dd995a-acef-485e-81f4-34770a072f6c) |
-| **Contato** | ![Design Figma - Página Contato](https://github.com/user-attachments/assets/ba4746ef-c555-49fe-8c92-29ab21a08d78) | ![Implementação HTML/CSS - Página Contato](https://github.com/user-attachments/assets/61876148-0085-409e-97c6-b63e7f093311) |
+| ![Design Figma - Página Inicial](https://github.com/user-attachments/assets/c00a96b8-13aa-4cb6-8128-4c23506c67eb) | ![Implementação HTML/CSS - Página Inicial](https://github.com/user-attachments/assets/f5386d90-0ad3-4fc4-8174-d8e6137f6534) |
+
+### 2. Página Sobre
+
+| Design Figma (O Antes) | Implementação HTML/CSS (O Depois) |
+| :---: | :----: |
+| ![Design Figma - Página Sobre](https://github.com/user-attachments/assets/ccf75de2-b014-4f8f-8a91-c094919887ea) | ![Implementação HTML/CSS - Página Sobre](https://github.com/user-attachments/assets/ca3eda33-9f36-47e4-8143-9318dc03a346) |
+
+### 3. Página Detalhes do Produto
+
+| Design Figma (O Antes) | Implementação HTML/CSS (O Depois) |
+| :---: | :----: |
+| ![Design Figma - Detalhes do Produto](https://github.com/user-attachments/assets/1921b82a-5ede-4bd3-b823-709a95f9a461) | ![Implementação HTML/CSS - Detalhes do Produto](https://github.com/user-attachments/assets/16dd995a-acef-485e-81f4-34770a072f6c) |
+
+### 4. Página Contato
+
+| Design Figma (O Antes) | Implementação HTML/CSS (O Depois) |
+| :---: | :----: |
+| ![Design Figma - Página Contato](https://github.com/user-attachments/assets/ba4746ef-c555-49fe-8c92-29ab21a08d78) | ![Implementação HTML/CSS - Página Contato](https://github.com/user-attachments/assets/61876148-0085-409e-97c6-b63e7f093311) |
 
 ---
 
@@ -58,8 +77,8 @@ A implementação do projeto LifePet em HTML e CSS buscou **manter a identidade 
 
 | Recurso | URL |
 | :--- | :--- |
-| **Página Publicada (GitHub Pages)** | `https://erik13639.github.io/Prototipo-Figma/` |
-| **Protótipo Figma Original** | `https://www.figma.com/proto/i3jLR3hJHjpSpLx4NOuMlH/01-PROJETO?node-id=15-51&p=f&t=X0Y8ul4kuMGeTuPA-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=15%3A51` |
+| **Página Publicada (GitHub Pages)** | https://erik13639.github.io/Prototipo-Figma/ |
+| **Protótipo Figma Original** | [Insira o link do seu arquivo Figma aqui, se desejar] |
 
 ---
 
