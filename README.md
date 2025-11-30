@@ -78,7 +78,7 @@ Abaixo, demonstramos a fidelidade da implementação em HTML e CSS em relação 
 | Recurso | URL |
 | :--- | :--- |
 | **Página Publicada (GitHub Pages)** | https://erik13639.github.io/Prototipo-Figma/ |
-| **Protótipo Figma Original** | [Insira o link do seu arquivo Figma aqui, se desejar] |
+| **Protótipo Figma Original** | [https://www.figma.com/proto/i3jLR3hJHjpSpLx4NOuMlH/01-PROJETO?node-id=15-51&p=f&t=X0Y8ul4kuMGeTuPA-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=15%3A51] |
 
 ---
 
